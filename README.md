@@ -1,4 +1,4 @@
-## My favorites go packages
+## My favorite go packages
 
 [github.com/go-python/gopy](https://github.com/go-python/gopy)   
 __gopy generates a CPython extension module from a go package__   
