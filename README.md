@@ -1,6 +1,6 @@
 ## My favorite go packages
 
-[github.com/gocolly/colly](https://github.com/gocolly/colly)
+[github.com/gocolly/colly](https://github.com/gocolly/colly)    
 __Elegant Scraper and Crawler Framework for Golang__      
 _Lightning Fast and Elegant Scraping Framework for Gophers.
 Colly provides a clean interface to write any kind of crawler/scraper/spider.
